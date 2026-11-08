@@ -1,0 +1,33 @@
+{
+  "name": "@octadezx/wordpress",
+  "version": "0.1.1",
+  "description": "Official OctaDezx AI Customer Support, Multimodal Vision, Voice & WooCommerce Chatbot Plugin & SDK for WordPress.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "homepage": "https://octadezx.com/woocommerce-chatbot",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cleverfox-77/octadezx-wordpress.git"
+  },
+  "bugs": {
+    "url": "https://octadezx.com/developers"
+  },
+  "keywords": [
+    "octadezx",
+    "octadex",
+    "odx",
+    "wordpress",
+    "woocommerce",
+    "woocommerce-chatbot",
+    "wordpress-ai-plugin",
+    "ai-customer-support",
+    "multimodal-ai",
+    "multi-step-ai",
+    "mcp"
+  ],
+  "author": "OctaDezx Engineering <kevin@octadezx.com> (https://octadezx.com)",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}
